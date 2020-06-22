@@ -1,4 +1,4 @@
 # Semantic Web - Cau truc du lieu va giai thuat
 
-##Do an AI - UIT
+Do an AI - UIT
 
